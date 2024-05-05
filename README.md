@@ -59,9 +59,9 @@ This model is built on the robust Transformer architecture, initially designed f
 | "रहे वे लोग जिन्होंने इनकार किया, तो उनके लिए तबाही है। और उनके कर्मों को अल्लाह ने अकारथ कर दिया" | "But as for the unbelievers, ill chance shall befall them! He will send their works astray." | "But as for those who disbelieve, for them is perdition. And He will waste their deeds." |
 | फिर कैसी रही मेरी यातना और मेरे डरावे?                    | How then were My chastisement and My warnings?        | How [terrible] were My punishment and My warnings!   |
 
-### **Comparsion Metrics -> Semantic Textual Similarity (STS) Scores :**
+### *Comparsion Metrics -> Semantic Textual Similarity (STS)  & BiLingual Evaluation Understudy (BLEU) Scores:*
 
-STS scores quantify the semantic similarity between two text sentences. Measures how closely the meaning of two sentences aligns. STS scores typically range between 0 and 1, representing the degree of semantic similarity between two text pieces.
+STS scores and BLEU scores quantify the semantic similarity between two text sentences. Measures how closely the meaning of two sentences aligns. These both scores typically range between 0 and 1, representing the degree of semantic similarity between two text pieces.
 
 
 0     :    No semantic similarity.
