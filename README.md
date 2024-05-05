@@ -1,6 +1,9 @@
 # Comparitive Analysis of Google Translator and AI4Bharat Translator
 ## Comparsion of the Translator's(Google Translator and AI4Bharat Translator) based on the BLUE Score and STS Score 
 
+
+## **Note :**
+IIT Bombay Complete dataset , Final Dataset after translating with google translator and ai4bharat translator the translated records along with the STS scores and BLEU Scores and the Video presentation are all set in the releases.
 ### **Problem Statement :**
 
 In light of Google Translator's inefficiencies with low-resource and certain Indian languages, can we find more effective alternatives to Google Translator?How do these alternatives compare in terms of accuracy and contextual meaning, aiming to deliver superior translations in diverse linguistic contexts?
